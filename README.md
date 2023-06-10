@@ -3,7 +3,11 @@ Based on the provided requirements, we can use Python and the Flask framework to
 
 
 Install Flask and pandas:
+
+
 Create a new Python file, and import the required modules;
+
+
 Load the dataset CSV file into a pandas DataFrame:
 Initialize the Flask application:
 app = Flask(__name__)
